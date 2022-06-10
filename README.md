@@ -1,2 +1,0 @@
-# BacBagBot
-telegram bot
